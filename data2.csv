@@ -1,0 +1,21 @@
+﻿OrderID,Product,Category,Quantity,UnitPrice,City,OrderDate
+O001,Laptop,Electronics,2.0,18500000.0,Ho Chi Minh City,2026-09-01
+O002,Wireless Mouse,Accessories,5.0,350000.0,Hanoi,2026-09-02
+O003,Monitor,Electronics,1.0,4200000.0,Da Nang,2026-09-03
+O004,Keyboard,Accessories,3.0,650000.0,Ho Chi Minh City,2026-09-04
+O005,USB Drive,Accessories,10.0,180000.0,Can Tho,2026-09-05
+O006,Tablet,Electronics,2.0,7900000.0,Hanoi,2026-09-06
+O007,Headphones,Accessories,4.0,1250000.0,Da Nang,2026-09-07
+O008,Webcam,Accessories,3.0,890000.0,Ho Chi Minh City,2026-09-08
+O009,Laptop,Electronics,1.0,19200000.0,Hanoi,2026-09-09
+O010,Monitor,Electronics,2.0,4100000.0,Can Tho,2026-09-10
+O011,Wireless Mouse,Accessories,,350000.0,Ho Chi Minh City,2026-09-11
+O012,Keyboard,Accessories,2.0,,Hanoi,2026-09-12
+O013,Tablet,Electronics,-1.0,7900000.0,Da Nang,2026-09-13
+O014,USB Drive,Accessories,8.0,180000.0,Can Tho,2026-09-14
+O015,Headphones,Accessories,2.0,1250000.0,Ho Chi Minh City,2026-09-15
+O016,Webcam,Accessories,150.0,890000.0,Hanoi,2026-09-16
+O017,Laptop,Electronics,1.0,18500000.0,Da Nang,2026-09-17
+O018,Monitor,Electronics,3.0,4200000.0,Ho Chi Minh City,2026-09-18
+O019,Keyboard ,Accessories,4.0,650000.0,Hanoi ,2026-09-19
+O020,USB Drive,Accessories,6.0,180000.0,Da Nang,2026-09-20
